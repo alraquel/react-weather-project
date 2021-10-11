@@ -8,7 +8,7 @@ export default function App() {
         <button type="Submit">Search</button>
       </form>
       <p className="coded">
-        <a href="https://github.com/alraquel"> Coded</a>
+        <a href="https://github.com/alraquel"> Coded </a>
         by Raquel
       </p>
     </div>
