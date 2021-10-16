@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App";
 import "bootstrap/dist/css/bootstrap.css";
 import "./App.css";
+import Weather from "./Weather";
 
 ReactDOM.render(
   <React.StrictMode>
